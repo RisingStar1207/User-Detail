@@ -1,0 +1,15 @@
+@media(max-width:768px){
+    .userName{
+        font-size: 1.2rem !important;
+    }
+    .jobTitle{
+        font-size: 1rem !important;
+    }
+    .reduce{
+        font-size: 0.8rem !important;
+    }
+    .email{
+        padding-left: 5px !important;
+        padding-right: 5px !important;
+    }
+}

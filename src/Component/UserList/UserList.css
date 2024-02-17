@@ -1,0 +1,26 @@
+@media (max-width:992px){
+    .userCard{
+        width:310px !important;
+    }
+}
+@media (max-width:575px){
+    .userCard{
+        width:200px !important;
+    }
+    .precise{
+        display:flex;
+        flex-direction: column;
+    }
+    .precise span{
+        padding: 2px !important;
+    }
+    .userName{
+        font-size: 0.8rem !important;
+    }
+    .jobTitle{
+        font-size: 0.8rem !important;
+    }
+    .single{
+        overflow: scroll;
+    }
+}
